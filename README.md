@@ -16,7 +16,7 @@ This project analyzes transactional data from a UK-based online retail company t
 - **Which customer segments should marketing prioritize?**
 - **How can we predict future demand for inventory planning?**
 
-## 📈 Key Results
+## Key Results
 
 | Metric | Value |
 |--------|-------|
