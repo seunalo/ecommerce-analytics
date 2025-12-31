@@ -32,7 +32,7 @@ This project analyzes transactional data from a UK-based online retail company t
 - Found **November peak** for seasonal inventory planning
 - Flagged **"At Risk" customers** for re-engagement campaigns
 
-## 🛠️ Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 - **Data Cleaning & Preprocessing**: Handling missing values, outliers, data type conversions
 - **Exploratory Data Analysis**: Sales trends, product analysis, geographic distribution
@@ -120,7 +120,7 @@ Applied unsupervised learning to validate RFM segments and discover natural cust
 5. **Weekend Promotions** - currently underperforming vs weekdays
 6. **International Expansion** - Germany & France show growth potential
 
-## 🔧 Technologies Used
+## Technologies Used
 
 | Category | Tools |
 |----------|-------|
@@ -159,7 +159,7 @@ SELECT
 FROM monthly_revenue;
 ```
 
-## 📚 Data Source
+## Data Source
 
 **UCI Online Retail Dataset**
 - Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
