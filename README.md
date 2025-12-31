@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales Analytics & Customer Segmentation
+# E-commerce Sales Analytics & Customer Segmentation
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3+-green.svg)
@@ -7,7 +7,7 @@
 
 A comprehensive data analytics project analyzing e-commerce transaction data to uncover sales patterns, segment customers, and provide actionable business insights.
 
-## 🎯 Project Overview
+## Project Overview
 
 This project analyzes transactional data from a UK-based online retail company to answer critical business questions:
 
@@ -42,7 +42,7 @@ This project analyzes transactional data from a UK-based online retail company t
 - **Data Visualization**: Matplotlib, Seaborn for insights communication
 - **SQL**: Complex queries including CTEs, window functions, aggregations
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ecommerce-analytics-project/
@@ -61,7 +61,7 @@ ecommerce-analytics-project/
     └── online_retail.xlsx       # UCI Online Retail Dataset
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -88,7 +88,7 @@ jupyter notebook ecommerce_analytics.ipynb
 
 The notebook will automatically download the dataset from UCI Machine Learning Repository.
 
-## 📊 Analysis Highlights
+## Analysis Highlights
 
 ### 1. Revenue Trends
 ![Monthly Revenue](outputs/monthly_revenue_trend.png)
@@ -131,7 +131,7 @@ Applied unsupervised learning to validate RFM segments and discover natural cust
 | Database | SQL (PostgreSQL syntax) |
 | Development | Jupyter Notebook, Git |
 
-## 📄 SQL Skills Demonstrated
+## SQL Skills Demonstrated
 
 The `sql_queries.sql` file includes:
 
@@ -167,14 +167,10 @@ FROM monthly_revenue;
 - Period: December 2010 - December 2011
 - Region: UK-based online retailer with international customers
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/seunalo](https://linkedin.com/in/seunalo)
-- **Email**: oluwaseunalo@gmail.com
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
